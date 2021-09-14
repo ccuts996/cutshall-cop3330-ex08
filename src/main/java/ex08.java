@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 08 Solution
+ *  Copyright 2021 Chase Cutshall
+ */
+
 import java.util.Scanner;
 
 public class ex08 {
